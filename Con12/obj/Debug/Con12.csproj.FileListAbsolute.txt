@@ -1,0 +1,9 @@
+D:\Projects\CSExer\Con12\bin\Debug\Con12.exe.config
+D:\Projects\CSExer\Con12\bin\Debug\Con12.exe
+D:\Projects\CSExer\Con12\bin\Debug\Con12.pdb
+D:\Projects\CSExer\Con12\obj\Debug\Con12.csprojResolveAssemblyReference.cache
+D:\Projects\CSExer\Con12\obj\Debug\Con12.exe
+D:\Projects\CSExer\Con12\obj\Debug\Con12.pdb
+D:\Projects\Repos\CSExer\Con12\bin\Debug\Con12.exe.config
+D:\Projects\Repos\CSExer\Con12\obj\Debug\Con12.exe
+D:\Projects\Repos\CSExer\Con12\obj\Debug\Con12.pdb

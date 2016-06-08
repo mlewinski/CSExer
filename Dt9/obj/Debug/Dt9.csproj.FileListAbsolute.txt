@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Dt9\bin\Debug\Dt9.exe.config
+D:\Projects\CSExer\Dt9\bin\Debug\Dt9.exe
+D:\Projects\CSExer\Dt9\bin\Debug\Dt9.pdb
+D:\Projects\CSExer\Dt9\obj\Debug\Dt9.exe
+D:\Projects\CSExer\Dt9\obj\Debug\Dt9.pdb

@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Ex8\bin\Debug\Ex8.exe.config
+D:\Projects\CSExer\Ex8\bin\Debug\Ex8.exe
+D:\Projects\CSExer\Ex8\bin\Debug\Ex8.pdb
+D:\Projects\CSExer\Ex8\obj\Debug\Ex8.exe
+D:\Projects\CSExer\Ex8\obj\Debug\Ex8.pdb

@@ -1,0 +1,6 @@
+D:\Projects\CSExer\Dt4\bin\Debug\Dt4.exe.config
+D:\Projects\CSExer\Dt4\bin\Debug\Dt4.exe
+D:\Projects\CSExer\Dt4\bin\Debug\Dt4.pdb
+D:\Projects\CSExer\Dt4\obj\Debug\Dt4.csprojResolveAssemblyReference.cache
+D:\Projects\CSExer\Dt4\obj\Debug\Dt4.exe
+D:\Projects\CSExer\Dt4\obj\Debug\Dt4.pdb

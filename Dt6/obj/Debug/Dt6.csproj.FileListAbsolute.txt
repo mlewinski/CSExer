@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Dt6\bin\Debug\Dt6.exe.config
+D:\Projects\CSExer\Dt6\bin\Debug\Dt6.exe
+D:\Projects\CSExer\Dt6\bin\Debug\Dt6.pdb
+D:\Projects\CSExer\Dt6\obj\Debug\Dt6.exe
+D:\Projects\CSExer\Dt6\obj\Debug\Dt6.pdb

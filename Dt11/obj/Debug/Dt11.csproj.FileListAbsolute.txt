@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Dt11\bin\Debug\Dt11.exe.config
+D:\Projects\CSExer\Dt11\bin\Debug\Dt11.exe
+D:\Projects\CSExer\Dt11\bin\Debug\Dt11.pdb
+D:\Projects\CSExer\Dt11\obj\Debug\Dt11.exe
+D:\Projects\CSExer\Dt11\obj\Debug\Dt11.pdb

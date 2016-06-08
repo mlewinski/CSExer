@@ -1,0 +1,6 @@
+D:\Projects\CSExer\Dt7\bin\Debug\Dt7.exe.config
+D:\Projects\CSExer\Dt7\bin\Debug\Dt7.exe
+D:\Projects\CSExer\Dt7\bin\Debug\Dt7.pdb
+D:\Projects\CSExer\Dt7\obj\Debug\Dt7.csprojResolveAssemblyReference.cache
+D:\Projects\CSExer\Dt7\obj\Debug\Dt7.exe
+D:\Projects\CSExer\Dt7\obj\Debug\Dt7.pdb

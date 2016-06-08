@@ -1,0 +1,6 @@
+D:\Projects\CSExer\Con4\bin\Debug\Con4.exe.config
+D:\Projects\CSExer\Con4\bin\Debug\Con4.exe
+D:\Projects\CSExer\Con4\bin\Debug\Con4.pdb
+D:\Projects\CSExer\Con4\obj\Debug\Con4.csprojResolveAssemblyReference.cache
+D:\Projects\CSExer\Con4\obj\Debug\Con4.exe
+D:\Projects\CSExer\Con4\obj\Debug\Con4.pdb

@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Dt8\bin\Debug\Dt8.exe.config
+D:\Projects\CSExer\Dt8\bin\Debug\Dt8.exe
+D:\Projects\CSExer\Dt8\bin\Debug\Dt8.pdb
+D:\Projects\CSExer\Dt8\obj\Debug\Dt8.exe
+D:\Projects\CSExer\Dt8\obj\Debug\Dt8.pdb

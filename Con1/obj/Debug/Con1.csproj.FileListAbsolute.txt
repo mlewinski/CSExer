@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Con1\bin\Debug\Con1.exe.config
+D:\Projects\CSExer\Con1\bin\Debug\Con1.exe
+D:\Projects\CSExer\Con1\bin\Debug\Con1.pdb
+D:\Projects\CSExer\Con1\obj\Debug\Con1.exe
+D:\Projects\CSExer\Con1\obj\Debug\Con1.pdb

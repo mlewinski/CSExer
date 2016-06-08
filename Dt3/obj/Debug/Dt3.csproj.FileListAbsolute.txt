@@ -1,0 +1,6 @@
+D:\Projects\CSExer\Dt3\bin\Debug\Dt3.exe.config
+D:\Projects\CSExer\Dt3\bin\Debug\Dt3.exe
+D:\Projects\CSExer\Dt3\bin\Debug\Dt3.pdb
+D:\Projects\CSExer\Dt3\obj\Debug\Dt3.csprojResolveAssemblyReference.cache
+D:\Projects\CSExer\Dt3\obj\Debug\Dt3.exe
+D:\Projects\CSExer\Dt3\obj\Debug\Dt3.pdb

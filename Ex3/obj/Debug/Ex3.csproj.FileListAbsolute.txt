@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Ex3\bin\Debug\Ex3.exe.config
+D:\Projects\CSExer\Ex3\bin\Debug\Ex3.exe
+D:\Projects\CSExer\Ex3\bin\Debug\Ex3.pdb
+D:\Projects\CSExer\Ex3\obj\Debug\Ex3.exe
+D:\Projects\CSExer\Ex3\obj\Debug\Ex3.pdb

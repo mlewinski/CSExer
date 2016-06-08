@@ -1,0 +1,6 @@
+D:\Projects\CSExer\Con9\bin\Debug\Con9.exe.config
+D:\Projects\CSExer\Con9\bin\Debug\Con9.exe
+D:\Projects\CSExer\Con9\bin\Debug\Con9.pdb
+D:\Projects\CSExer\Con9\obj\Debug\Con9.csprojResolveAssemblyReference.cache
+D:\Projects\CSExer\Con9\obj\Debug\Con9.exe
+D:\Projects\CSExer\Con9\obj\Debug\Con9.pdb

@@ -1,0 +1,5 @@
+D:\Projects\CSExer\Con7\bin\Debug\Con7.exe.config
+D:\Projects\CSExer\Con7\bin\Debug\Con7.exe
+D:\Projects\CSExer\Con7\bin\Debug\Con7.pdb
+D:\Projects\CSExer\Con7\obj\Debug\Con7.exe
+D:\Projects\CSExer\Con7\obj\Debug\Con7.pdb
