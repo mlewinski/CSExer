@@ -1,0 +1,5 @@
+D:\Projects\Repos\CSExer\Con20\bin\Debug\Con20.exe.config
+D:\Projects\Repos\CSExer\Con20\bin\Debug\Con20.exe
+D:\Projects\Repos\CSExer\Con20\bin\Debug\Con20.pdb
+D:\Projects\Repos\CSExer\Con20\obj\Debug\Con20.exe
+D:\Projects\Repos\CSExer\Con20\obj\Debug\Con20.pdb
