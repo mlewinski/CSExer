@@ -1,0 +1,6 @@
+D:\Projects\Repos\CSExer\Con16\bin\Debug\Con16.exe.config
+D:\Projects\Repos\CSExer\Con16\bin\Debug\Con16.exe
+D:\Projects\Repos\CSExer\Con16\bin\Debug\Con16.pdb
+D:\Projects\Repos\CSExer\Con16\obj\Debug\Con16.csprojResolveAssemblyReference.cache
+D:\Projects\Repos\CSExer\Con16\obj\Debug\Con16.exe
+D:\Projects\Repos\CSExer\Con16\obj\Debug\Con16.pdb
